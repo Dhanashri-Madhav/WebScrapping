@@ -48,9 +48,9 @@ print('composing Emails')
 
 SERVER = 'smtp.navgurukul.org'
 PORT = 3000
-FROM = "dhanashri20@navgurukul.org"
-TO = "odhanashri@gmail.com"
-PASS = 'dhannooo'
+FROM = ""
+TO = ""
+PASS = ''
 
 msg = MIMEMultipart()
 
